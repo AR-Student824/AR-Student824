@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello!! :wave:
+## I'm AR!
+I am a frontend and backend developer and develop whatever comes in my mind.
 
-<!--
-**AR-Student824/AR-Student824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+> If there's code that you want to use but isn't written yet, then you must write it
+> - Some person, don't remember the name :joy:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stuff I work on
+- discord.css
+- BlobChat
+- Profanity Killer
+- TotallyUsefulAPI
+
+## Discord
+If you want to contact me, add me on Discord: `AR#6969`
