@@ -6,7 +6,6 @@
   <br /><br />
   </div>
   <h2>Best active projects</h2>
-  <i>All the projects below don't currently function, and are under development.</i>
   <li><a href="https://hangle.me">Hangle</a></li>
   <li><a href="https://www.divvyr.ml">Divvyr</a></li>
   <li><a href="https://fshare.vercel.app">FShare</a></li>
