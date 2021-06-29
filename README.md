@@ -1,3 +1,3 @@
-<div allign="center">
+<div align="center">
 # Hi, I'm AR 👋
 </div>
