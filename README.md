@@ -4,6 +4,7 @@
   <br />
   <img src="https://lanyard-profile-readme.vercel.app/api/314903667574702080" />
   <br /><br />
+  </div>
   <h2>Best active projects</h2>
   <i>All the projects below don't currently function, and are under development.</i>
   <li><a href="https://hangle.me">Hangle</a></li>
