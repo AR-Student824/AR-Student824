@@ -12,8 +12,7 @@
   <p>Most or if not all of these projects are open source, either on my GitHub account, or one of my organization accounts.</p>
   <li><a href="https://breeze.ar-dev.cf">Breeze</a></li>
   <li><a href="https://hangle.me">Hangle</a></li>
-  <li><a href="https://weather.ar-dev.cf">Weather69420</a></li>
-  <li><a href="https://npm.im/weather69420">Weather69420-terminal</a></li>
+  <li><a href="https://npm.im/breezeweather">BreezeWeather NPM</a></li>
   <li><a href="https://encode.ar-dev.cf">Encodemaster69420</a></li>
   <li><a href="https://instagram.com/deltabot_">Delta</a></li>
   <li><a href="https://css.ar-dev.cf">css-preview</a></li>
