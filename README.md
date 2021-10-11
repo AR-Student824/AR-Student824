@@ -3,8 +3,6 @@
   <h1>Hi, I'm <a href="https://www.ar-dev.cf">AR</a> 👋</h1>
   <a href="https://www.ar-dev.cf">Website</a> | <a href="https://blog.ar-dev.cf">The AR Blawg</a>
   <br />
-<img src="https://api.ghprofile.me/view?username=AR-Student824&type=social" />
-  <br />
   <p>I'm a full stack developer, and the founder of the <a href="https://www.blobby.me">Blobby</a> community & development.</p>
   <p>Check my gists!</p>
   <br />
