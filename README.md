@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/DfFUmaM.png" />
+  <img src="https://i.imgur.com/DfFUmaM.png" width="400px" />
   <h1>Hi, I'm <a href="https://www.ar-dev.cf">AR</a> 👋</h1>
   <a href="https://www.ar-dev.cf">Website</a> | <a href="https://blog.ar-dev.cf">The AR Blawg</a>
   <br />
