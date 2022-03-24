@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://i.imgur.com/DfFUmaM.png" width="400px" />
   <h1>Hi, I'm <a href="https://www.ar-dev.cf">AR</a> 👋</h1>
-  <a href="https://www.ar-dev.cf">Website</a> | <a href="https://blog.ar-dev.cf">The AR Blawg</a>
+  <a href="https://www.formrocket.me"><b>Check out FormRocket!</b></a>
   <br />
-  <p>I'm a full stack developer. Don't ask for follow requests :D</p>
+  <p>I'm a full stack developer.</p>
   <p>Check my gists!</p>
   <br />
   <img src="https://lanyard-profile-readme.vercel.app/api/314903667574702080" />
