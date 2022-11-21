@@ -1,10 +1,6 @@
 <div align="center">
-  <img src="https://i.imgur.com/DfFUmaM.png" width="400px" />
-  <h1>Hi, I'm <a href="https://www.ar-dev.cf">AR</a> 👋</h1>
-  <a href="https://www.formrocket.me"><b>Check out FormRocket!</b></a>
-  <br />
+  <h1>hey, i'm asad 👋</h1>
   <p>I'm a full stack developer.</p>
-  <p>Check my gists!</p>
   <br />
   <img src="https://lanyard-profile-readme.vercel.app/api/314903667574702080" />
   <br /><br />
