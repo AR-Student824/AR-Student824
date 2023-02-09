@@ -1,6 +1,6 @@
 <div align="center">
   <h1>hey, i'm asad 👋</h1>
-  <p>web dev & ceo @ Notelier AI</p>
+  <p>web dev @ Notelier AI<br/> though this account is still being used, it's no longer my main account. best way to get in touch is twitter.</p>
 
   <br />
   <img src="https://lanyard-profile-readme.vercel.app/api/314903667574702080" />
